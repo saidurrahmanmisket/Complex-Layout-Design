@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.all_contant{
+    width: 1200px;
+    margin: 30PX auto;
+}
+h1, h2{
+    margin: 10px auto;
+}
+
+
+.header{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(42, 205, 255);
+}
+.logo{
+    width: 20%;
+    height: 100%;
+    float: left;
+    background-color: red;
+}
+.heading{
+    width: 60%;
+    height: 100%;
+    background-color: rgb(196, 21, 212);
+    border: 1px solid black;
+    float: left;
+}
+.address{
+   width: 20%;
+    height: 100%;
+    float: left;
+    background-color: red;
+}
+
+
+
+.main_body{
+    height: 600px;
+    width: 100%;
+    background-color: silver;
+}
+.left_panel{
+    height: 100%;
+    width: 20%;
+    background-color: #dbd6b9;
+    float: left;
+    border: 1px solid black;
+    
+}
+.left_panel1{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(206, 205, 188);
+    float: left;
+    border: 1px solid black;
+}
+.left_panel2{
+      width: 100%;
+    height: 50%;
+    background-color: rgb(255, 243, 19);
+    float: left;
+    border: 1px solid black;
+}
+.right_panel{
+    height: 100%;
+    width: 20%;
+    background-color: rgb(208, 255, 210);
+    float: right;
+    border: 1px solid black;
+
+}
+.right_panel1{
+     width: 100%;
+    height: 50%;
+    background-color: rgb(255, 243, 19);
+    float: left;
+    border: 1px solid black;
+}
+.right_panel2{
+     width: 100%;
+    height: 50%;
+    background-color: rgb(0, 218, 152);
+    float: left;
+    border: 1px solid black;
+}
+.main_contant{
+    width: 80%;
+    height: 600px;
+    background-color: chartreuse;
+}
+.pre_body{
+    width: auto;
+    height: 20%;
+    background-color: rgb(119, 192, 214);
+    border: 1px solid black;
+}
+.body{
+    width: auto;
+    height: 60%;
+    background-color: rgb(0, 132, 255);
+    border: 1px solid black;
+}
+.post_body{
+    width: auto;
+    height: 20%;
+    background-color: rgb(121, 251, 255);
+    border: 1px solid black;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(140, 0, 255);
+    border: 1px solid black;
+}
